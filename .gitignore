@@ -1,0 +1,27 @@
+# build
+*.pyc
+__pycache__
+dist/
+build/
+*.egg-info/
+
+# misc
+checkpoints
+events
+log.txt
+.env
+*.swp
+
+# Mac
+**.DS_Store**
+
+# code editor
+.idea/
+.vscode/
+
+exps/
+results/*
+
+logs/*
+bak/
+tmp/
