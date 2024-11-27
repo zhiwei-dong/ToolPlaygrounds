@@ -2,19 +2,19 @@
 
 # Favorite 模型及对应模型类
 declare -A favorite_models=(
-    # ["GLM4-9B"]="GLM4"
-    # ["gpt-4o-2024-05-13-ptu"]="GPT"
+    ["GLM4-9B"]="GLM4"
+    ["gpt-4o-2024-05-13-ptu"]="GPT"
     ["gpt-4o-2024-08-06"]="GPT"
-    # ["gpt-35-turbo-0125"]="GPT"
-    # ["gpt-4-turbo"]="GPT"
-    # ["gpt-4o-mini"]="GPT"
-    # ["ToolLLaMA-2-7b-v2"]="ToolLlama"
-    # ["gorilla-openfunctions-v2"]="Gorilla"
-    # ["functionary-small-v3.2"]="Functionary"
-    # ["functionary-medium-v3.2"]="Functionary"
-    # ["functionary-medium-v3.1"]="Functionary"
-    # ["xlam-7b-fc-r"]="XLAM"
-    # ["xlam-1b-fc-r"]="XLAM"
+    ["gpt-35-turbo-0125"]="GPT"
+    ["gpt-4-turbo"]="GPT"
+    ["gpt-4o-mini"]="GPT"
+    ["ToolLLaMA-2-7b-v2"]="ToolLlama"
+    ["gorilla-openfunctions-v2"]="Gorilla"
+    ["functionary-small-v3.2"]="Functionary"
+    ["functionary-medium-v3.2"]="Functionary"
+    ["functionary-medium-v3.1"]="Functionary"
+    ["xlam-7b-fc-r"]="XLAM"
+    ["xlam-1b-fc-r"]="XLAM"
 )
 
 echo "Testing Favorite Models"
